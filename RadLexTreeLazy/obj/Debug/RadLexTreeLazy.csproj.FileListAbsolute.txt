@@ -1,0 +1,13 @@
+c:\users\terarecon\documents\visual studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\bin\Debug\RadLexTreeLazy.exe.config
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\bin\Debug\RadLexTreeLazy.exe
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\bin\Debug\RadLexTreeLazy.pdb
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\RadLexTreeLazy.csprojResolveAssemblyReference.cache
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\MainWindow.baml
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\MainWindow.g.cs
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\App.g.cs
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\RadLexTreeLazy_MarkupCompile.cache
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\RadLexTreeLazy.g.resources
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\RadLexTreeLazy.Properties.Resources.resources
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\RadLexTreeLazy.csproj.GenerateResource.Cache
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\RadLexTreeLazy.exe
+C:\Users\TeraRecon\Documents\Visual Studio 2012\Projects\RadLexTreeLazy\RadLexTreeLazy\obj\Debug\RadLexTreeLazy.pdb

@@ -1,0 +1,3 @@
+[radlexcs.csv]
+Format=Delimited(,)
+ColNameHeader=True
